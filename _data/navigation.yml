@@ -1,6 +1,21 @@
 # Site navigation links
 
-- title:
+- title: web作品集
+  url:
+  excerpt:
+  image:
+  
+- title: web笔记
+  url:
+  excerpt:
+  image:
+  
+- title: 可视化笔记
+  url:
+  excerpt:
+  image:
+  
+- title: 可视化作品集
   url:
   excerpt:
   image:
