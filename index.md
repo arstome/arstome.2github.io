@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "个人学习作品展示"
 ---
 
 <div class="tiles">
