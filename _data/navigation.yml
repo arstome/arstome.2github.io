@@ -1,9 +1,9 @@
 # Site navigation links
 
 - title: web作品集
-  url:
-  excerpt:
-  image:
+  url: /portfolio/web/
+  excerpt: 网页制作的作品
+  image: note2.jpg
   
 - title: web笔记
   url: /portfolio/webnote/
@@ -11,11 +11,11 @@
   image: note1.jpg
   
 - title: 可视化笔记
-  url:
-  excerpt:
-  image:
+  url: /portfolio/visnote/
+  excerpt: 可视化的一些知识点
+  image: note3.jpg
   
 - title: 可视化作品集
-  url:
-  excerpt:
-  image:
+  url: /portfolio/vis/
+  excerpt: 可视化的期中跟期末作品
+  image: note4.md
